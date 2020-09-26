@@ -1,0 +1,74 @@
+
+*{
+    background-color: black;
+    color: lightcyan;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 10px 10px;
+    background-attachment: scroll;
+       
+}
+
+h3{
+    border: 1px;
+    display: inline-block;
+    width: 500px;
+    height: 90px;
+    margin: 0 300px;
+    font: oblique bold 120% cursive;
+    color: aquamarine;
+    text-align: center;   
+}
+
+
+p{
+   text-align: center;
+   width: 500px;
+   height: 120px;
+    margin: 0 300px;
+    
+}
+
+img{
+
+    width: 90px;
+    height: 60px;
+}
+
+#cobros{
+        width: 210px;
+       height: 120px;
+       font: oblique bold 95% cursive;
+       margin: 1 300px;
+      text-align: center;
+    display: inline-block;
+}
+#cobros1{
+        width: 210px;
+       height: 120px;
+       font: oblique bold 95% cursive;
+       margin: 1px 00px;
+    text-align: center;
+    display: inline-block;
+}
+
+header{
+    text-align:center;
+    font-size: 30px
+    
+}
+p1{
+    color: blue;
+    font: oblique bold 120% cursive;
+}
+
+p3{
+    border: 1px;
+    display: inline-block;
+    width: 500px;
+    height: 90px;
+    margin: 0 300px;
+    font: oblique bold 120% cursive;
+    color: aquamarine;
+    text-align: center;
+}
